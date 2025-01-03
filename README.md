@@ -128,7 +128,7 @@ We welcome contributions to improve Artemis! Follow these steps to contribute:
 
 ## Contact
 
-For questions or support, reach out to **Shaikh Abdullah** at [abdullahsknitrr@gmail.com](mailto:abdullahsknitrr@gmail.com).
+For questions or support, reach out to **Abdullah Shaikh** at [abdullahsknitrr@gmail.com](mailto:abdullahsknitrr@gmail.com).
 
 ## Acknowledgements
 
